@@ -4,7 +4,7 @@
 * 𝐀𝐆𝐑 𝐊𝐔𝐂𝐇 𝐂𝐇𝐀𝐍𝐆𝐄 𝐊𝐈𝐘𝐀 𝐓𝐎 𝐂𝐎𝐍𝐕𝐎 𝐁𝐀𝐍𝐃 𝐇𝐎 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈 𝐔𝐒𝐊𝐄 𝐉𝐈𝐌𝐄𝐖𝐀𝐑 𝐀𝐀𝐏 𝐊𝐇𝐔𝐃 𝐇𝐎𝐆𝐄🚫
 ## <h3 align="center">
   
-  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -𝐉𝐀𝐀𝐓-𝐁𝐑𝐀𝐍𝐃-𝐂𝐎𝐍𝐕𝐎-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
+  <p align="center"><img src="https://img.shields.io/badge/WELCOME%20TO -𝐉𝐀𝐀𝐓-𝐁𝐑𝐀𝐍𝐃-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
   
 </h3>
 
