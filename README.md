@@ -25,6 +25,4 @@ python main_enc.py
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@naveenkumar-yb3gu?si=YSfLxW0Ii3E5o4sV)
 
 ![Image](https://i.ibb.co/MCxZP4t/Screenshot-20250127-080447-Termux.jpg)
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/JAAT-BRAND/count.svg" alt="Visitors">
-</p>
+ 
